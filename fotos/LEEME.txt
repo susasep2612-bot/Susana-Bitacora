@@ -1,1 +1,18 @@
-Fotos
+BITÁCORA SOSTENIBLE - Susana Sepúlveda Vargas
+
+Pon aquí tus fotos (JPG, idealmente de máx. 1200 px de ancho) con EXACTAMENTE estos nombres:
+
+exp1-clase-ods.jpg        Experiencia 1: clase de los ODS
+exp2-producto.jpg         Experiencia 2: producto elegido (Hugger Island)
+exp2-analisis.jpg         Experiencia 2: análisis de la compra consciente
+exp3-ecomapa.jpg          Experiencia 3: ecomapa
+exp4-ciudad-del-rio.jpg   Experiencia 4: Ciudad del Río
+exp5-exterior.jpg         Experiencia 5: exterior Biblioteca EPM
+exp5-interiores.jpg       Experiencia 5: espacios interiores
+exp5-actividad.jpg        Experiencia 5: actividad realizada
+habito-termo.jpg          Hábito: termo / proceso
+huella-pantallazo.jpg     Huella hídrica: pantallazo de la calculadora
+
+Si una foto no está, la página muestra un recuadro que dice cuál falta.
+Para agregar más fotos o cambiar nombres, edita la lista FOTOS en index.html.
+La primera foto de cada experiencia también se usa como portada de su tarjeta.
